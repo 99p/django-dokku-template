@@ -1,6 +1,6 @@
 # hi there!
 
-this is my dokku 1st app!!
+this is my django-dokku-template!!
 
 ## usage:
   remote:
