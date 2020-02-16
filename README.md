@@ -13,7 +13,10 @@ remote
 
 local
 
+    git init
     git remote add dokku dokku@<hostname>:<appname>
+    git add .
+    git commit -m 'wow!'
     git push dokku master
 
 remote
